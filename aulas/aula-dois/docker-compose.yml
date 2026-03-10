@@ -4,7 +4,7 @@ services:
   servidor-web:
     container_name: meu-site-nginx
     ports:
-      - "8081:80" # A porta 8080 é a que acessamos no navegador
+      - "8081:80" # A porta 8081 é a que acessamos no navegador
     restart: always
 
-#Aterações da Terra-52
+#Aterações da Terra-52 
